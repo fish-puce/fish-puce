@@ -1,4 +1,11 @@
-# Hi there 👋
+# 
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/147223254?v=4" />
+   <h3 align="center">¡Hola 👋! Soy Fernando 👨🏻‍💻</h3>
+</p>
+
+
+###Apasionado de la tecnología, me gusta la fotografía, configurar servidores, investigar e implementar nuevas tecnologías. 
 
 <!--
 **fish-puce/fish-puce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
